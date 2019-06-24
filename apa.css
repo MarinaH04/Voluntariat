@@ -1,0 +1,62 @@
+.container1 {
+    height: 350px;
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.poza1, .poza2 {
+    display: inline-block;
+    width: 250px;
+    position: absolute;
+}
+
+.poza1 img, .poza2 img {
+    width: 100%;
+}
+.poza1 {
+    
+    left: 0px;
+}
+
+.poza2 {
+   
+    right: 0px;
+}
+
+.aliniat {
+    text-indent: 25px;
+}
+
+.poza3 {
+    width: 400px;
+    margin: 0 auto;
+}
+.poza3 img {
+    width: 100%;
+}
+.container2 {
+    height: 350px;
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.poza4, .poza5 {
+    display: inline-block;
+    width: 250px;
+    position: absolute;
+}
+
+.poza4 {
+    left: 0;
+    width: 300px;
+}
+.poza4 img, .poza5 img {
+    width: 100%;
+}
+
+.poza5 {
+    right: 0;
+    width: 350px;
+}

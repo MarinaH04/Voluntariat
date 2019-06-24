@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(176,196,222, 0.3);
+}
+
+.container_poze {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.poza1, .poza2, .poza3, .poza4 {
+    display: inline-block;
+    position: absolute;
+    width: 500px;
+}
+
+.poza1 {
+    top: 25px;
+    left: 0;
+}
+.poza1 img {
+    width: 100%;
+}
+.poza2 {
+    top: 15px;
+    right: 0;
+}
+.poza2 img {
+    width: 100%;
+}
+
+.poza3 {
+    top: 500px;
+    left:0;
+}
+.poza3 img {
+    width: 100%;
+}
+.poza4 {
+    top: 500px;
+    right: 0;
+    
+}
+.poza4 img {
+    width: 100%;
+}
+

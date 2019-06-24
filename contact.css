@@ -1,0 +1,17 @@
+.textul {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.textul p:nth-of-type(1) {
+    background-color: rgba(255, 240, 39, 0.6);
+    padding: 10px 0px;
+    width: 15vw;
+    text-align: center;
+    border-bottom: 3px solid rgb(64, 184, 0);
+}
+
+.harta {
+    width: 80%;
+    margin: 0 auto;
+}

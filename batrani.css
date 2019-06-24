@@ -1,0 +1,53 @@
+body {
+    background-color: rgba(176,196,222, 0.3);
+}
+
+.container_poze {
+    position: relative;
+}
+
+
+.poza1, .poza2, .poza3, .poza4, .poza5 {
+    display: inline-block;
+    position: absolute;
+}
+
+.poza1 {
+    top: 15px;
+    left: 175px;
+
+}
+
+.poza2 {
+    top: 15px;
+    left: 780px;
+}
+
+.poza5 {
+    top: 150px;
+    left:485px;
+}
+
+.poza3 {
+    top: 330px;
+    left: 245px;
+    height:500px;
+    width:300px;
+}
+
+.poza3 img {
+    height: 100%;
+    width: 100%;
+}
+
+.poza4 {
+    top: 330px;
+    left: 800px;
+    height: 500px;
+    width: 350px;
+}
+
+.poza4 img {
+    height: 100%;
+    width: 100%;
+}
